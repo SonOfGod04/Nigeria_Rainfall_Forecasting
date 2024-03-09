@@ -28,3 +28,5 @@ The dataset used for this research encompasses the following key parameters:
 This repository aims to provide valuable insights and methodologies for rainfall forecasting in Nigeria, contributing to the advancement of predictive modeling in meteorology and climate science.
 
 Feel free to explore the code, datasets, and analysis provided in this repository to gain deeper insights into the application of machine learning in weather forecasting, specifically tailored to Nigerian climatic conditions.
+
+#### Note: Ensure proper citation and attribution if you utilize any part of this research or codebase.
