@@ -33,6 +33,6 @@ Feel free to explore the code, datasets, and analysis provided in this repositor
 
 #### Contributor: Ajah, Oguche
 
-![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/commit/4c48019978a859b05ab4bdce3ebb854e3d4c35d8)
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(199).png)
 
 ## Importing dataset
