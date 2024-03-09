@@ -36,3 +36,23 @@ Feel free to explore the code, datasets, and analysis provided in this repositor
 ![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(199).png)
 
 ## Importing dataset
+The first step involved importing the dataset containing detailed meteorological data from various regions in Nigeria. Each dataset was accompanied by comprehensive data summaries to provide insights into the variables and their distributions.
+## Data Cleaning
+A meticulous data cleaning process was implemented to ensure the dataset's integrity. This included checking for missing data, handling duplicates, and addressing outliers to prepare the dataset for analysis and modeling.
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(198).png)
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(200).png)
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(201).png)
+## Exploratory Data Analysis
+An extensive exploratory data analysis (EDA) was conducted to gain a deeper understanding of the dataset. Detailed analyses were performed for each state, uncovering important insights and patterns in the meteorological variables.
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(202).png)
+## Feature Engineering
+Feature engineering played a crucial role in enhancing the predictive power of the model. Various techniques were employed to extract relevant features and create new variables that could better capture the dynamics of rainfall patterns in Nigeria. Data normalization was performed to scale the features and ensure uniformity in their ranges, thereby improving the stability and convergence of the models.
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(203).png)
+## Data splitting/Model Building
+The dataset was split into training and testing sets to facilitate model development and evaluation. Several machine learning algorithms, including Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU), were implemented to build predictive models for rainfall forecasting.
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(204).png)
+## Model Evaluation
+The performance of each model was rigorously evaluated using a range of evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE). This enabled a comparative analysis of the models' accuracy and effectiveness in predicting rainfall patterns in Nigeria.
+![rainfall1](https://github.com/SonOfGod04/Nigeria_Rainfall_Forecasting/blob/main/Screenshot%20(205).png)
+
+
