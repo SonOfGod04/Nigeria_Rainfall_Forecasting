@@ -30,3 +30,5 @@ This repository aims to provide valuable insights and methodologies for rainfall
 Feel free to explore the code, datasets, and analysis provided in this repository to gain deeper insights into the application of machine learning in weather forecasting, specifically tailored to Nigerian climatic conditions.
 
 #### Note: Ensure proper citation and attribution if you utilize any part of this research or codebase.
+
+#### Contributor: Ajah, Oguche
